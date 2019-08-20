@@ -2,99 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ad67190-b125-4056-8657-b6452877b671" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go_shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/goods.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/adv01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/adv02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/banner06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/fruit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods/goods021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/goods_detail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/icons02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/interval_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/left_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/login_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/logo02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/register_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/shop_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/slide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/images/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/place_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/user_center_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/user_center_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/user_center_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/天天生鲜项目页面.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/说明文档.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/place_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/user_center_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/user_center_order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home/user_center_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/admin/admin_user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/addType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 16_42_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 17_40_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 17_40_50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 18_08_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 20_33_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 20_34_08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-29 20_34_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-30 10_52_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-30 10_52_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-30 10_53_57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-31 12_00_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-31 12_12_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-31 13_09_58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-31 13_10_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-08-31 13_10_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-28-18-49-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-28-18-50-58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-28-18-56-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-30-09-26-41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-30-16-17-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-10-49-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-10-59-00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-11-38-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-14-44-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-14-52-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-12-31-15-22-40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2018-29-16-16-46-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2019-01-02-09-30-38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2019-01-07-11-58-30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/2019-01-07-11-58-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/img/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/addType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go_shop" beforeDir="false" afterPath="$PROJECT_DIR$/go_shop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/model.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/reload.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/user_center_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/user_center_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.tpl" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +78,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -135,17 +108,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/admin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/admin" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/home" />
       <recent name="$PROJECT_DIR$/views/home" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/views" />
     </key>
   </component>
   <component name="RunDashboard">

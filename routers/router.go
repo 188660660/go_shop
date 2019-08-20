@@ -1,13 +1,30 @@
 package routers
 
 import (
+	"https://github.com/188660660/go_shop/tree/master/controllers"
+
+	"github.com/TruthHun/DocHub/controllers/HomeControllers"
+	"github.com/TruthHun/DocHub/helper"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 	"go_shop/controllers"
 )
-
-func init() {
+func init(){
+	// 判断用户是否登录
 	beego.InsertFilter("/goods/*", beego.BeforeExec, filterFunc)
+
+	front()
+	back()
+}
+
+// 后台路由
+func back()  {
+	// 后台-登录
+	beego.Router("/admin/login", &controllers.AdminUserController{}, "get:ShowIndex")
+}
+
+// 前台路由
+func front() {
 	// 首页路由
 	beego.Router("/", &controllers.IndexController{}, "get:ShowIndex")
 	beego.Router("/index", &controllers.IndexController{}, "get:ShowIndex")
